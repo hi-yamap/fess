@@ -1261,6 +1261,16 @@
 			<version>${spnego.version}</version>
 		</dependency>
 		<dependency>
+			<groupId>org.pac4j</groupId>
+			<artifactId>pac4j-oidc</artifactId>
+			<version>6.2.0</version>
+		  </dependency>
+		  <dependency>
+			<groupId>org.pac4j</groupId>
+			<artifactId>jakartaee-pac4j</artifactId>
+			<version>8.1.0</version>
+		</dependency>
+		<dependency>
 			<groupId>commons-codec</groupId>
 			<artifactId>commons-codec</artifactId>
 			<version>${commons.codec.version}</version>
